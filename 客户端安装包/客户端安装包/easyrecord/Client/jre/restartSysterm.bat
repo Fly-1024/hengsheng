@@ -1,0 +1,1 @@
+schtasks /create /tn "Daily Reboot" /tr "shutdown -r -t 00" /sc DAILY /st 07:00:00 /ru "System" 
