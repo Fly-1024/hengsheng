@@ -1,1 +1,0 @@
-".\uninstall.exe" "/U:.\Uninstall\uninstall.xml"
